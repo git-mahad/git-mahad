@@ -10,13 +10,9 @@
 
 ## Skills
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, PHP, Java
+- **Backend**: Node.js, PHP
 - **Databases**: SQL, MySQL, MongoDB
 - **Tools**: Git, Github, VSCode, chatgpt
-
-- **Problem Solving**: Active on LeetCode, solving problems and converting solutions to class-based implementations
-- **GitHub Repository**: [Array]([https://github.com/git-mahad/Array-LeetCode.git]) - Solving LeetCode problems
-- **GitHub Repository**: [Project]([https://github.com/git-mahad/Console-Quiz-Game.git]) - Console base Game
 
 ## Services I Offer
 I provide services on Fiverr related to:
@@ -25,15 +21,14 @@ I provide services on Fiverr related to:
 - Converting C++ code to class-based solutions
 
 ## Get in Touch
-- **GitHub**: [git-mahad](https://github.com/git-mahad/Array-LeetCode)
 - **LinkedIn**: [Muhammad Mahad](https://linkedin.com/in/mahad-dev)
 
 ## Badges
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white)
 
